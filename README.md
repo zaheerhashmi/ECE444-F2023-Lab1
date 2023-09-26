@@ -8,7 +8,8 @@ Activity 1:
 Activity 2: 
 
 ![image](https://github.com/zaheerhashmi/ECE444-F2023-Lab1/assets/34323129/01553123-a242-4d70-8058-8fa54719f335)
-![Uploading image.png…]()
+![image](https://github.com/zaheerhashmi/ECE444-F2023-Lab1/assets/34323129/f1dde535-eee0-41b2-8888-f04c934fca76)
+
 
 
 
